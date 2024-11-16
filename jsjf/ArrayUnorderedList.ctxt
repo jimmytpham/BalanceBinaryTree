@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ArrayUnorderedList
+comment0.text=\r\n\ ArrayUnorderedList\ represents\ an\ array\ implementation\ of\ an\ unordered\ list.\r\n\r\n\ @author\ Java\ Foundations\r\n\ @version\ 4.0\r\n
+comment1.params=
+comment1.target=ArrayUnorderedList()
+comment1.text=\r\n\ Creates\ an\ empty\ list\ using\ the\ default\ capacity.\r\n
+comment2.params=initialCapacity
+comment2.target=ArrayUnorderedList(int)
+comment2.text=\r\n\ Creates\ an\ empty\ list\ using\ the\ specified\ capacity.\r\n\r\n\ @param\ initialCapacity\ the\ initial\ size\ of\ the\ list\r\n
+comment3.params=element
+comment3.target=void\ addToFront(java.lang.Object)
+comment3.text=\r\n\ Adds\ the\ specified\ element\ to\ the\ front\ of\ this\ list.\r\n\ \r\n\ @param\ element\ the\ element\ to\ be\ added\ to\ the\ front\ of\ the\ list\r\n
+comment4.params=element
+comment4.target=void\ addToRear(java.lang.Object)
+comment4.text=\r\n\ Adds\ the\ specified\ element\ to\ the\ rear\ of\ this\ list.\r\n\r\n\ @param\ element\ the\ element\ to\ be\ added\ to\ the\ list\r\n
+comment5.params=element\ target
+comment5.target=void\ addAfter(java.lang.Object,\ java.lang.Object)
+comment5.text=\r\n\ Adds\ the\ specified\ element\ after\ the\ specified\ target\ element.\r\n\ Throws\ an\ ElementNotFoundException\ if\ the\ target\ is\ not\ found.\r\n\r\n\ @param\ element\ the\ element\ to\ be\ added\ after\ the\ target\ element\r\n\ @param\ target\ \ the\ target\ that\ the\ element\ is\ to\ be\ added\ after\r\n
+numComments=6

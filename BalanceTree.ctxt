@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BalanceTree
+comment0.text=\r\n\ BalanceTree\ creates\ a\ binary\ tree\ and\ balances\ using\ brute\ force.\r\n\r\n\ Jimmy\ Pham\r\n\ T00629354\r\n\ March\ 7\ 2023\r\n\ COMP\ 2231\ \r\n\ Assignment\ 4\ Question\ 2\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

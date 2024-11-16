@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BinarySearchTreeADT
+comment0.text=\r\n\ BinarySearchTreeADT\ defines\ the\ interface\ to\ a\ binary\ search\ tree.\r\n\ \r\n\ @author\ Java\ Foundations\r\n\ @version\ 4.0\r\n
+comment1.params=element
+comment1.target=void\ addElement(java.lang.Object)
+comment1.text=\ \r\n\ Adds\ the\ specified\ element\ to\ the\ proper\ location\ in\ this\ tree.\ \r\n\r\n\ @param\ element\ the\ element\ to\ be\ added\ to\ this\ tree\r\n
+comment2.params=targetElement
+comment2.target=java.lang.Object\ removeElement(java.lang.Object)
+comment2.text=\ \r\n\ Removes\ and\ returns\ the\ specified\ element\ from\ this\ tree.\ \r\n\r\n\ @param\ targetElement\ the\ element\ to\ be\ removed\ from\ the\ tree\r\n\ @return\ the\ element\ to\ be\ removed\ from\ the\ tree\r\n
+comment3.params=targetElement
+comment3.target=void\ removeAllOccurrences(java.lang.Object)
+comment3.text=\ \r\n\ Removes\ all\ occurences\ of\ the\ specified\ element\ from\ this\ tree.\ \r\n\r\n\ @param\ targetElement\ the\ element\ to\ be\ removed\ from\ the\ tree\r\n
+comment4.params=
+comment4.target=java.lang.Object\ removeMin()
+comment4.text=\ \r\n\ Removes\ and\ returns\ the\ smallest\ element\ from\ this\ tree.\ \r\n\r\n\ @return\ the\ smallest\ element\ from\ the\ tree.\r\n
+comment5.params=
+comment5.target=java.lang.Object\ removeMax()
+comment5.text=\ \r\n\ Removes\ and\ returns\ the\ largest\ element\ from\ this\ tree.\ \r\n\r\n\ @return\ the\ largest\ element\ from\ the\ tree\r\n
+comment6.params=
+comment6.target=java.lang.Object\ findMin()
+comment6.text=\ \r\n\ Returns\ the\ smallest\ element\ in\ this\ tree\ without\ removing\ it.\ \r\n\ \r\n\ @return\ the\ smallest\ element\ in\ the\ tree\r\n
+comment7.params=
+comment7.target=java.lang.Object\ findMax()
+comment7.text=\ \r\n\ Returns\ the\ largest\ element\ in\ this\ tree\ without\ removing\ it.\ \r\n\ \r\n\ @return\ the\ largest\ element\ in\ the\ tree\r\n
+numComments=8

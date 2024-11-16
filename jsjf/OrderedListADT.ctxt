@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OrderedListADT
+comment0.text=\r\n\ OrderedListADT\ defines\ the\ interface\ to\ an\ ordered\ list\ collection.\ Only\r\n\ Comparable\ elements\ are\ stored,\ kept\ in\ the\ order\ determined\ by\r\n\ the\ inherent\ relationship\ among\ the\ elements.\r\n\r\n\ @author\ Java\ Foundations\r\n\ @version\ 4.0\r\n
+comment1.params=element
+comment1.target=void\ add(java.lang.Object)
+comment1.text=\r\n\ Adds\ the\ specified\ element\ to\ this\ list\ at\ the\ proper\ location\r\n\r\n\ @param\ element\ the\ element\ to\ be\ added\ to\ this\ list\r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EmptyCollectionException
+comment0.text=\r\n\ Represents\ the\ situation\ in\ which\ a\ collection\ is\ empty.\r\n\r\n\ @author\ Java\ Foundations\r\n\ @version\ 4.0\r\n
+comment1.params=collection
+comment1.target=EmptyCollectionException(java.lang.String)
+comment1.text=\r\n\ Sets\ up\ this\ exception\ with\ an\ appropriate\ message.\r\n\ @param\ collection\ the\ name\ of\ the\ collection\r\n
+numComments=2
